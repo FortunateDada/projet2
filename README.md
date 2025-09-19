@@ -9,4 +9,3 @@ Running the container produces the same results as `python project1.py`.
 
 ```bash
 docker build -t projet1 .
-
